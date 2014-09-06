@@ -118,3 +118,6 @@ class Manager:
 
     def only(self, *fields):
         pass
+
+    def get_queryset(self):
+        pass
